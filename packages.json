@@ -14,5 +14,9 @@
     {
         "package": "SigBridgeR",
         "url": "https://github.com/WangLabCSU/SigBridgeR"
+    },
+    {
+        "package": "geokit",
+        "url": "https://github.com/WangLabCSU/geokit"
     }
 ]
